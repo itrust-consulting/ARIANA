@@ -1,12 +1,12 @@
 # ARIANA
 
-## How to install ARIANA
+## Installing ARIANA on Microsoft Word
 
 To install ARIANA tools, initially clone the GitHub repository contents into a local folder and copy the contents into ```C:\Users\<username>\AppData\Roaming\Microsoft\Templates```. 
 
 Then, quit all Microsoft Office instances and launch Word. A full system reboot could be needed in order to complete the installation, if there are instances of Word running in the background.
 
-## How to configure ARIANA
+## Configuring ARIANA in Microsoft Word
 
 After copying the files, it might not be possible yet to view the ARIANA-Tools Ribbon menu. If that is the case, perform the following steps:
 
@@ -33,6 +33,30 @@ If the previous process was successful, the Ribbon Menu in word should now displ
 ![Installation verification](./Images/InstallationVerification.png)
 
 After making this verification, the tool is ready for generating new documents.
+
+## Installing ARIANA on Microsoft Excel
+
+To install ARIANA tools, initially clone the GitHub repository contents into a local folder and copy the file ```ARIANA-T.xlam```, found in the folder ```ITR-PACKAGE\Templates\SetUp``` into ```C:\Users\<username>\AppData\Roaming\Microsoft\AddIns```. 
+
+Then, quit all Microsoft Office instances and launch Excel. A full system reboot could be needed in order to complete the installation, if there are instances of Excel running in the background.
+
+## Configuring ARIANA in Microsoft Excel
+
+After copying the ```ARIANA-T.xlam``` file, Excel have to be configured to add the ARIANA Add-In. To do so, execute the following steps:
+
+1. Click on "Options" on the bottom-left side of the window;
+
+![Options menu](./Images/OpenOptions.png)
+
+2. Select the "Add-Ins" option in the left side of the dialog box;
+
+![Add-ins](./Images/ExcelAddIns.png)
+
+3. Click on the "Go..." button on the bottom of the dialog box;
+
+![Add-ins](./Images/SelectAddIns.png)
+
+4. Make sure that the checkbox by "ARIANA-T" is checked.
 
 ## License
 
