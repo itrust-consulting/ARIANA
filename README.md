@@ -70,7 +70,7 @@ After copying the ```ARIANA-T.xlam``` file, Excel have to be configured to add t
 4. Make sure that the checkbox by "ARIANA-T" is checked.
 
 ## User Guide
-Refer to the [quick user guide](./UserGuide/5ADPUV24_STA_ARIANA-QS_v4.1.pdf) for getting started.
+Refer to the ![quick user guide](./UserGuide/5ADPUV24_STA_ARIANA-QS_v4.1.pdf) for getting started.
 
 ## License
 
