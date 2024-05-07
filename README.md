@@ -2,12 +2,7 @@
 
 ## Introduction 
 
-ARIANA tool is created as an add on over Microsoft Word and Excel applications and enables an easy 
-and reliable process for policies generation, audit report generation or updation, migration of record of processing 
-and provides additional word and excel utilities useful for the consultants in day to day tasks. 
-The tool was developed as a VBA application by itrust consulting for delivering standardized documentation in the ATENA project. 
-The tool has being released as an open source as a CyFort project initiative with its key features being made available for usage and inviting 
-further contributions.
+The ARIANA tool is designed as an add-on to Microsoft Word and Microsoft Excel applications and provides a simple and reliable process for creating policies, creating or updating audit reports, migrating processing records, and providing additional Word and Excel utilities useful to consultants in their day-to-day work. The tool was developed by itrust consulting as a VBA application to provide standardised documentation in the ATENA project. The tool has been released as open source as part of the CyFORT project initiative, making its main features available for use and inviting further contributions.
 
 ## Installation
 
