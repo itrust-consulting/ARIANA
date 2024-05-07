@@ -34,7 +34,7 @@ After copying the files, it might not be possible yet to view the ARIANA-Tools R
 
 ![Import customization](./Images/ImportCustomization.png)
 
-5. Navigate to the folder "Templates\SetUp" under ARIANA installation folder and select the file "SUP_Q010_ARIANA-Ribbon_v25.exportedUI";
+5. Navigate to the folder "Templates\SetUp" under ARIANA installation folder and select the file "SUP_Q010_ARIANA-Ribbon_v24.exportedUI";
 6. The list of ribbon menus to be imported should now have three ARIANA items: ARIANA-Audit, ARIANA-Doc Mgt and ARIANA-Tools.
 
 #### Checking the ARIANA installation
