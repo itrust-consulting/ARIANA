@@ -67,6 +67,8 @@ After copying the ```ARIANA-T.xlam``` file, Excel have to be configured to add t
 ## User Guide
 Refer to the [quick user guide](./UserGuide/5ADPUV24_STA_ARIANA-QS_v4.1.pdf) for getting started.
 
+For further GDPR generation instructions, refer to the [GDPR user guide](./UserGuide/5ADPUG_STA_GDPRUserGuide_v1.1.pdf) for getting started.
+
 ## License
 
 Copyright © itrust consulting. All rights reserved.
